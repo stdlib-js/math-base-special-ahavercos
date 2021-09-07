@@ -113,6 +113,24 @@ for ( i = 0; i < x.length; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/ahaversin`][@stdlib/math/base/special/ahaversin]: compute the inverse half-value versed sine.
+-   [`@stdlib/math/base/special/havercos`][@stdlib/math/base/special/havercos]: compute the half-value versed cosine.
+-   [`@stdlib/math/base/special/vercos`][@stdlib/math/base/special/vercos]: compute the versed cosine.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -169,6 +187,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-ahavercos/main/LICENSE
 
 [archavercosine]: https://en.wikipedia.org/wiki/Versine
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/ahaversin]: https://github.com/stdlib-js/math-base-special-ahaversin
+
+[@stdlib/math/base/special/havercos]: https://github.com/stdlib-js/math-base-special-havercos
+
+[@stdlib/math/base/special/vercos]: https://github.com/stdlib-js/math-base-special-vercos
+
+<!-- </related-links> -->
 
 </section>
 
