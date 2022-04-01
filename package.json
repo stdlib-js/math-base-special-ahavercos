@@ -1,0 +1,45 @@
+{
+  "name": "@stdlib/math-base-special-ahavercos",
+  "version": "0.0.0",
+  "description": "Compute the inverse half-value versed cosine.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-ahavercos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "ahavercos",
+    "ahavercosin",
+    "ahavercosine",
+    "arcvercos",
+    "arcvercosin",
+    "arcvercosine",
+    "versed cosine",
+    "ahavercosinus",
+    "ahvc",
+    "arc",
+    "versed",
+    "half-value",
+    "cosine",
+    "cos",
+    "acos",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
