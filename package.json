@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-ahavercos",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Compute the inverse half-value versed cosine.",
   "license": "Apache-2.0",
   "author": {
