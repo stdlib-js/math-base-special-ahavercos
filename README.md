@@ -65,7 +65,7 @@ The [inverse half-value versed cosine][archavercosine] is defined as
 To use in Observable,
 
 ```javascript
-ahavercos = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercos@umd/browser.js' )
+ahavercos = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercos@v0.2.3-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -77,7 +77,7 @@ var ahavercos = require( 'path/to/vendor/umd/math-base-special-ahavercos/index.j
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercos@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercos@v0.2.3-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -133,7 +133,7 @@ v = ahavercos( NaN );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercos@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ahavercos@v0.2.3-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
