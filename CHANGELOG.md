@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-19)
+## Unreleased (2026-11-14)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#16586](https://github.com/stdlib-js/stdlib/issues/16586)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`0a54a1b`](https://github.com/stdlib-js/stdlib/commit/0a54a1bea05872c1b6f02965f857db553ee40a00) - **chore:** fix JavaScript lint errors [(#16588)](https://github.com/stdlib-js/stdlib/pull/16588) _(by Hayabusa, Athan Reines)_
 -   [`5e791ee`](https://github.com/stdlib-js/stdlib/commit/5e791ee1873736589c6b3fe875d5a192e134fdb8) - **test:** migrate `math/base/special/ahavercos` to ULP-based assertions [(#14011)](https://github.com/stdlib-js/stdlib/pull/14011) _(by Athan Reines)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
@@ -25,9 +38,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Hayabusa
 -   Karan Anand
 
 </section>
